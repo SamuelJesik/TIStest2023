@@ -13,6 +13,6 @@ kolko kamenov mnisi prekladaju...
 Nas tim tvoria clenovia:
 
 1. Samuel Ješík
-2.
+2. Teodor Fuček
 3.
 4.
