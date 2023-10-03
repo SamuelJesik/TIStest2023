@@ -15,4 +15,4 @@ Nas tim tvoria clenovia:
 1. Samuel Ješík
 2. Teodor Fuček
 3. Adam Húserka
-4. Marek Danihel
+4.
