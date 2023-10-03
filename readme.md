@@ -14,5 +14,5 @@ Nas tim tvoria clenovia:
 
 1. Samuel Ješík
 2.
-3.
+3. Adam H�serka
 4.
