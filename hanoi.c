@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-void hanoi(int n, int a, int b)
+void hanoi(int n, int a, int b,in)
 {
   if (n == 1) 
-    printf("move stone 1 from %d to %d\n", a, b);
+    printf("presun kamen 1 z %d do %d\n", a, b);
   else
   {
-    hanoi(n - 1, a, 6 - a);
-    printf("move stone %d from %d to %d\n", n, a, b);
-    hanoi(n, 6 - a - b, b);
+    hanoi(n - 1, a, 3 - a);
+    printf("presun kamen %d z %d do %d\n", n, a, b);
+    hanoi(n-1 , 3 - a - b, b);
   }
 }
 
