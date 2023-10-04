@@ -12,6 +12,7 @@ kolko kamenov mnisi prekladaju...
 
 bude konflikt
 bububub
+prave som vytvoril konflikt
 
 Nas tim tvoria clenovia:
 
